@@ -7,5 +7,4 @@ Output image is 11:10 size image with upper/lower white box.
 Make the directory 'raw' and insert the image you want to resize
 
 language: python 3.10
-need python module: PIL (pip install PIL)
-                  : os
+need python module: PIL (pip install PIL), os
