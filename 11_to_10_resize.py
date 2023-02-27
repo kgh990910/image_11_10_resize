@@ -32,4 +32,3 @@ for token in token_list:
     tmp_image.save(save_path)
     
 print("Done")
-print("End Making Farmlearning Thumnail")
