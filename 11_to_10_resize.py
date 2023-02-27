@@ -1,7 +1,7 @@
 from PIL import Image
 import os
 
-print("Start Making Farmlearning Thumnail")
+print("Start")
 
 raw_path = './raw/'
 token_list = os.listdir(raw_path)
